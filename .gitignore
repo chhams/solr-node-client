@@ -1,3 +1,5 @@
 node_modules
 output.txt
 docs/out
+solr-node-client.iml
+.idea/
